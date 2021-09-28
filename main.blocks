@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Q+pcfpbeBG~E%j/$@pCz" x="0" y="0"/><block type="device_forever" id="kCeCRAmkO|k;om@xk(`@" x="205" y="0"/><block type="device_plot" id="F]k63DJWGrX3=i#IjAW*" disabled="true" x="360" y="90"><value name="x"><shadow type="math_number_minmax" id="2Sl9Yys~U}1a8oQq,Gh[" disabled="true"><mutation min="0" max="4" label="X" precision="1"/><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="t2{iXMh0!=iE@o2$JTg;" disabled="true"><mutation min="0" max="4" label="Y" precision="1"/><field name="SLIDER">0</field></shadow></value></block><block type="radio_datagram_send_value" id="8,3y.?t*mpF0yQ3m0n4=" disabled="true" x="530" y="209"><value name="name"><shadow type="text" id="Q6vMG(0U@C%VipNIFugv" disabled="true"><field name="TEXT">name</field></shadow></value><value name="value"><shadow type="math_number" id="tlK$I8j|t@!u0Q.RA/HF" disabled="true"><field name="NUM">0</field></shadow></value></block></xml>
